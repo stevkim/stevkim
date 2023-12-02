@@ -5,7 +5,7 @@
 <h2>Link up with me</h2>
 
 <h2>Tech Stack</h2>
-<p align='center>
+<p align='center'>
   <img src='https://skillicons.dev/icons?i=js,html,css,aws,express,react,ts,vite,webpack,mongodb,redux,tailwind,vscode&perline=5' />
 </p>
 
