@@ -8,7 +8,7 @@
 </div>
 
 <h2>💻 Tech Stack</h2>
-<div></div>
+<div>
   <img src='https://skillicons.dev/icons?i=js,html,css,aws,express,react,ts,vite,webpack,mongodb,redux,tailwind,vscode' align='left' />
 </div>
 
