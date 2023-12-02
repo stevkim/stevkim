@@ -15,8 +15,9 @@
 <br />
 <h2> 💻 Tech Stack</h2>
 <div>
-  <img src='https://skillicons.dev/icons?i=js,html,css,aws,express,react,ts,vite,webpack,mongodb,redux,tailwind,vscode,git,mysql,sequelize,postman' align='left' />
+  <img src='https://skillicons.dev/icons?i=js,html,css,aws,express,react,ts,vite,webpack,mongodb,redux,tailwind,vscode,git,mysql,sequelize,postman&perline=10' align='left' />
 </div>
+<br />
 <br />
 <br />
 <h2> 🏆 My Stats</h2>
