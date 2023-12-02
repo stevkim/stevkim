@@ -9,7 +9,7 @@
 
 <h2>💻 Tech Stack</h2>
 <p align='center'>
-  <img src='https://skillicons.dev/icons?i=js,html,css,aws,express,react,ts,vite,webpack,mongodb,redux,tailwind,vscode&perline=8' />
+  <img src='https://skillicons.dev/icons?i=js,html,css,aws,express,react,ts,vite,webpack,mongodb,redux,tailwind,vscode' align='left' />
 </p>
 
 <h2>🏆 My Stats</h2>
