@@ -11,7 +11,8 @@
     <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' align='left' />
   </a>
 </div>
-
+<br />
+<br />
 <h2> 💻 Tech Stack</h2>
 <div>
   <img src='https://skillicons.dev/icons?i=js,html,css,aws,express,react,ts,vite,webpack,mongodb,redux,tailwind,vscode' align='left' />
