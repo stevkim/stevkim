@@ -4,10 +4,10 @@
 
 <h2>✉️ Link up with me</h2>
 <div>
-  <a>
+  <a href='https://www.linkedin.com/in/stevkim/' target='_blank'>
     <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' align='left' />
   </a>
-  <a>
+  <a href='mailto:stevenn.kkim@gmail.com'>
     <img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' align='left' />
   </a>
 </div>
