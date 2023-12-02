@@ -9,9 +9,7 @@
 
 <h2>💻 Tech Stack</h2>
 <div></div>
-  <p align='center'>
-    <img src='https://skillicons.dev/icons?i=js,html,css,aws,express,react,ts,vite,webpack,mongodb,redux,tailwind,vscode' align='left' />
-  </p>
+  <img src='https://skillicons.dev/icons?i=js,html,css,aws,express,react,ts,vite,webpack,mongodb,redux,tailwind,vscode' align='left' />
 </div>
 
 <h2>🏆 My Stats</h2>
