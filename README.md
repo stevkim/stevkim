@@ -13,6 +13,7 @@
 </p>
 
 <br />
+<hr />
 <h2>🏆 My Stats</h2>
 <div>
   <img src='https://github-readme-stats.vercel.app/api?username=stevkim&theme=dark&show_icons=true' align='left'/>
