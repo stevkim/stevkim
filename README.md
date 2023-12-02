@@ -12,6 +12,7 @@
   <img src='https://skillicons.dev/icons?i=js,html,css,aws,express,react,ts,vite,webpack,mongodb,redux,tailwind,vscode' align='left' />
 </div>
 <br />
+<br />
 <h2> 🏆 My Stats</h2>
 <div>
   <img src='https://github-readme-stats.vercel.app/api?username=stevkim&theme=dark&show_icons=true' align='left'/>
