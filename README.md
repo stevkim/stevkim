@@ -2,13 +2,13 @@
 <img src='https://komarev.com/ghpvc/?username=stevkim&color=green' />
 
 
-<h2>✉️Link up with me</h2>
+<h2>✉️ Link up with me</h2>
 <div>
   <a>
-    <img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' align='left' />
+    <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' align='left' />
   </a>
   <a>
-    <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' align='left' />
+    <img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' align='left' />
   </a>
 </div>
 <br />
