@@ -14,6 +14,6 @@
 
 <h2>🏆 My Stats</h2>
 <div>
-  <img src='https://github-readme-stats.vercel.app/api?username=stevkim&theme=dark&show_icons=true' />
-  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=stevkim&size_weight=0.5&count_weight=0.5&theme=dark' />
+  <img src='https://github-readme-stats.vercel.app/api?username=stevkim&theme=dark&show_icons=true' align='left'/>
+  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=stevkim&size_weight=0.5&count_weight=0.5&theme=dark'  align='left' />
 </div>
