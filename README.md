@@ -1,4 +1,4 @@
-<h1>Hello! 👋 </h1>
+<h1>Hello! 👋 Welcome to my page, my names Steven!</h1>
 <img src='https://komarev.com/ghpvc/?username=stevkim&color=green' />
 
 
