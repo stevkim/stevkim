@@ -7,7 +7,7 @@
   
 </div>
 
-<h2>Tech Stack</h2>
+<h2>:male-technologist: Tech Stack</h2>
 <p align='center'>
   <img src='https://skillicons.dev/icons?i=js,html,css,aws,express,react,ts,vite,webpack,mongodb,redux,tailwind,vscode&perline=8' />
 </p>
