@@ -15,7 +15,7 @@
 <br />
 <h2> 💻 Tech Stack</h2>
 <div>
-  <img src='https://skillicons.dev/icons?i=js,html,css,aws,express,react,ts,vite,webpack,mongodb,redux,tailwind,vscode,git,mysql,sequelize,postman,nodejs,babel&perline=10' align='left' />
+  <img src='https://skillicons.dev/icons?i=js,html,css,aws,express,react,ts,vite,webpack,mongodb,redux,tailwind,vscode,git,mysql,sequelize,postman,nodejs,babel,nginx,supabase,&perline=10' align='left' />
 </div>
 <br />
 <br />
