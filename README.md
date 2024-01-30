@@ -14,16 +14,16 @@
 <img src='https://komarev.com/ghpvc/?username=stevkim&color=blue'/> [![Follow me on GitHub](https://img.shields.io/github/followers/stevkim?label=Follow&style=social)](https://github.com/stevkim) 
 </div>
 
+<a id='aboutme'></a>    
 ## 👨🏻‍💻 About Me
-<a id='aboutme'></a>
 
 I am a Full Stack Developer based in Seattle. <img src="https://images6.fanpop.com/image/photos/37500000/Chi-typing-on-a-computer-chis-sweet-home-chis-new-address-37597964-320-240.gif" height='18'> 
 - 🌱 Currently exploring websockets
 - 📖 Always on the Leetcode grind
 - 🧗‍♂️ When I'm not looking at my screen, I enjoy rock climbing!
 
-## 🖇️ My Socials
 <a id='socials'></a>
+## 🖇️ My Socials
 <p>
   <a href='https://www.linkedin.com/in/stevkim/' target='_blank'>
     <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' />
@@ -33,8 +33,8 @@ I am a Full Stack Developer based in Seattle. <img src="https://images6.fanpop.c
   </a>
 </p>
 
-## 🛠️ Tech Stack
 <a id='techstack'></a>
+## 🛠️ Tech Stack
 <p align='center'>
   <img src='https://skillicons.dev/icons?i=js,css,aws,express,react,ts,mongodb,redux,tailwind,git,mysql,sequelize,nodejs,nginx,supabase,' />
 </p>
