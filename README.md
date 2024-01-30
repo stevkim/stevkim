@@ -1,6 +1,8 @@
 <div align='center'>
     <img src="https://readme-typing-svg.demolab.com?size=32&duration=2500&pause=10000&center=true&vCenter=true&width=940&lines=Hello%2C+I'm+Steven%2C+Welcome+to+my+page!" width="90%" align="center"/>
 
+~ <a href='#aboutme'>about me</a> • <a href='#socials'>my socials</a> • <a href='#techstack'>tech stack</a> ~
+
 ---
 
   <img src='https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif' height='300' />
@@ -13,6 +15,7 @@
 </div>
 
 ## 👨🏻‍💻 About Me
+<a id='aboutme'></a>
 
 I am a Full Stack Developer based in Seattle. <img src="https://images6.fanpop.com/image/photos/37500000/Chi-typing-on-a-computer-chis-sweet-home-chis-new-address-37597964-320-240.gif" height='18'> 
 - 🌱 Currently exploring websockets
@@ -20,6 +23,7 @@ I am a Full Stack Developer based in Seattle. <img src="https://images6.fanpop.c
 - 🧗‍♂️ When I'm not looking at my screen, I enjoy rock climbing!
 
 ## 🖇️ My Socials
+<a id='socials'></a>
 <p>
   <a href='https://www.linkedin.com/in/stevkim/' target='_blank'>
     <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' />
@@ -30,6 +34,7 @@ I am a Full Stack Developer based in Seattle. <img src="https://images6.fanpop.c
 </p>
 
 ## 🛠️ Tech Stack
+<a id='techstack'></a>
 <p align='center'>
   <img src='https://skillicons.dev/icons?i=js,css,aws,express,react,ts,mongodb,redux,tailwind,git,mysql,sequelize,nodejs,nginx,supabase,' />
 </p>
