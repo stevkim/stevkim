@@ -1,3 +1,4 @@
+<a id='back-to-top'></a>
 <div align='center'>
     <img src="https://readme-typing-svg.demolab.com?size=32&duration=2500&pause=10000&center=true&vCenter=true&width=940&lines=Hello%2C+I'm+Steven%2C+Welcome+to+my+page!" width="90%" align="center"/>
 
@@ -54,3 +55,5 @@ I am a Full Stack Developer based in Seattle. <img src="https://images6.fanpop.c
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord)](https://github.com/piyushsuthar/github-readme-quotes)
 
 </div>
+
+<p align='right'><a href='#back-to-top'>back to top</a></p>
