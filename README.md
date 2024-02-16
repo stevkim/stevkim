@@ -19,7 +19,7 @@
 ## 👨🏻‍💻 About Me
 
 I am a Full Stack Developer based in Seattle. <img src="https://images6.fanpop.com/image/photos/37500000/Chi-typing-on-a-computer-chis-sweet-home-chis-new-address-37597964-320-240.gif" height='18'> 
-- 🌱 Currently exploring websockets
+- 🌱 LLMs
 - 📖 Always on the Leetcode grind
 - 🧗‍♂️ When I'm not looking at my screen, I enjoy rock climbing!
 
