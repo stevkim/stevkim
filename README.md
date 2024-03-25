@@ -20,7 +20,7 @@
 
 I am a Full Stack Developer based in Seattle. <img src="https://images6.fanpop.com/image/photos/37500000/Chi-typing-on-a-computer-chis-sweet-home-chis-new-address-37597964-320-240.gif" height='18'> 
 
-Most of my experience is with the MERN stack and the React/Typescript ecosystem. However, I very much enjoy exploring new things and applying them as a I learn.
+Most of my experience is with the MERN stack and React/Typescript ecosystem. However, I very much enjoy exploring new things and applying them as a I learn.
 - 🌱 Currently exploring Java - my quest for learning more about the backend and it's complexities have been leading me to learn more lagnuages!
 - 📖 Always on the Leetcode grind
 - 🧗‍♂️ When I'm not looking at my screen, I enjoy rock climbing!
