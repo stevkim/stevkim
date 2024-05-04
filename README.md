@@ -42,20 +42,4 @@ Most of my experience is with the MERN stack and React/Typescript ecosystem. How
   <img src='https://skillicons.dev/icons?i=react,ts,aws,express,js,css,mongodb,redux,tailwind,git,mysql,sequelize,nodejs,nginx,supabase,nextjs,prisma&perline=9' />
 </p>
 
----
-
-<p align='center'>
-  <img src='https://github-readme-stats.vercel.app/api?username=stevkim&theme=nord&show_icons=true' height='250px' width='60%'/>
-  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=stevkim&size_weight=0.5&count_weight=0.5&theme=nord'  height='250px' width='35%' />
-</p>
-
----
-
-<div align='center'>
-  Heres a random dev quote, before you go!
-  
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord)](https://github.com/piyushsuthar/github-readme-quotes)
-
-</div>
-
 <p align='right'><a href='#back-to-top'>back to top</a></p>
