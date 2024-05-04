@@ -39,7 +39,7 @@ Most of my experience is with the MERN stack and React/Typescript ecosystem. How
 <a id='techstack'></a>
 ## 🛠️ Tech Stack
 <p align='center'>
-  <img src='https://skillicons.dev/icons?i=react,ts,aws,express,js,css,mongodb,redux,tailwind,git,mysql,sequelize,nodejs,nginx,supabase,nextjs,prisma' />
+  <img src='https://skillicons.dev/icons?i=react,ts,aws,express,js,css,mongodb,redux,tailwind,git,mysql,sequelize,nodejs,nginx,supabase,nextjs,prisma&perline=9' />
 </p>
 
 ---
