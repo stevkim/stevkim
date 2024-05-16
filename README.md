@@ -18,9 +18,9 @@
 <a id='aboutme'></a>    
 ## 👨🏻‍💻 About Me
 
-I am a Full Stack Developer based in Seattle. <img src="https://images6.fanpop.com/image/photos/37500000/Chi-typing-on-a-computer-chis-sweet-home-chis-new-address-37597964-320-240.gif" height='18'> 
+I am a Full Stack Software Engineer based in Seattle. <img src="https://images6.fanpop.com/image/photos/37500000/Chi-typing-on-a-computer-chis-sweet-home-chis-new-address-37597964-320-240.gif" height='18'> 
 
-Most of my experience is with the MERN stack and React/Typescript ecosystem. However, exploring new tech and applying them as a I learn is super fun!
+Hello! I'm a software engineer specializing in React, Typescript, Express, and more. I have experience building scalable web applications with tools like AWS(EC2, RDS, DocDB) and testing libraries like Jest to name a few.
 - 🌱 Currently, I'm working on a project using Nextjs, delving into the hype of SSR!
 - 📖 Always on the Leetcode grind
 - 🧗‍♂️ When I'm not looking at my screen, I enjoy rock climbing!
