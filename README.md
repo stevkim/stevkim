@@ -39,7 +39,7 @@ Hello! I'm a software engineer specializing in React, Typescript, Express, and m
 <a id='techstack'></a>
 ## 🛠️ Tech Stack
 <p align='center'>
-  <img src='https://skillicons.dev/icons?i=react,ts,aws,express,js,css,mongodb,redux,tailwind,git,mysql,sequelize,nodejs,nginx,supabase,nextjs,prisma&perline=9' />
+  <img src='https://skillicons.dev/icons?i=react,ts,aws,express,js,css,mongodb,redux,tailwind,git,mysql,sequelize,nodejs,nginx,supabase,nextjs,prisma,jest,postgres&perline=9' />
 </p>
 
 <p align='right'><a href='#back-to-top'>back to top</a></p>
